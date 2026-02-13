@@ -25,7 +25,7 @@
 - **アニメーション**:
   - React Native Reanimated (滑らかな動き)
   - Lottie (複雑なキャラクターアニメーション)
-- **音声**: Expo-av (BGM/SE再生)
+- **音声**: expo-av (BGM/SE再生)
 - **ストア配布**:
   - iOS: App Store
   - Android: Google Play Store
