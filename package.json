@@ -1,0 +1,12 @@
+{
+  "name": "my-escape-game",
+  "version": "1.0.0",
+  "description": "Escape from Opa's Italian",
+  "main": "generate-assets.js",
+  "scripts": {
+    "generate": "node generate-assets.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
